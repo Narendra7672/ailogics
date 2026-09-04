@@ -17,4 +17,3 @@ result = two_sum(nums, target)
 print(result)
 
 
-#git remote set-url origin https://github.com/Narendra7672/ailogics.git
