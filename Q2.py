@@ -25,3 +25,4 @@ print(result)
 
 
 # git remote add origin https://github.com/Narendra7672/Ai-logics-Assessment.git
+#git remote add origin https://github.com/Narendra7672/ailogics.git
